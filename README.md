@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KoonBengOoi
-- 👀 I’m want to know the effect moving outdoor heat to the indoors during the cold months 
-To meet the night comfort temperature of 15C, i have  a hydronic floor that is heated by a 50m deep vertical ground heat exchanger which has a bottom temperature of 17C.
-- 🌱 I’m currently using EnergyPlus to check whether reflected solar radiation concentrated by a parabolic trough can heat the indoors to 20C during daytime.
-- 💞️ I’m looking to use the thermal mass in the ground to buffer the few days when there is no sun.
+- 👀 The sun is the most obvious renewable energy source. However, while solar radiation is abundant in summer, it is weak and available for few hours in winter. This seasonal mismatch has given rise to solar batteries which are expensive and thermal storage which are difficult to insulate trans-seasonally. Thus this research investigates the use of vertical ground heat exchanger to tap the increase-in-stable-ground-temperature with depth. Circulation of water to hydronic floor radiator requires ultra-low power and is theoretically independent of U-tube length/borehole’s depth.
+- - 🌱 i have created GradientsGTM.cc/.hh to model deep ground temperatures for EnergyPlus to truly simulate with the undisturbed ground temperatures in deep rather than at the present shallow depths with a HybridFarFieldTemperaure.
+- 💞️ i am willing to take on coathors for a paper to a high impact journal
 - 📫 You can reach me at ooi_kb3@hotmail.com
 
 <!---
